@@ -1,0 +1,22 @@
+# ninja log v6
+17	1522	7817514638513526	QuantumPrint_autogen/timestamp	204203d8595659a2
+17	1522	7817514638513526	QuantumPrint_autogen/mocs_compilation.cpp	204203d8595659a2
+17	1522	7817514638513526	D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/QuantumPrint_autogen/timestamp	204203d8595659a2
+17	1522	7817514638513526	D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/QuantumPrint_autogen/mocs_compilation.cpp	204203d8595659a2
+1532	1679	7817514640986251	QuantumPrint_autogen/EWIEGA46WW/qrc_resources.cpp	43e82ad864516800
+1532	1679	7817514640986251	D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/QuantumPrint_autogen/EWIEGA46WW/qrc_resources.cpp	43e82ad864516800
+1734	1916	7817514641676634	CMakeFiles/QuantumPrint.dir/resources.rc.obj	1b96110c3b8f66ca
+1749	3305	7817514641832842	CMakeFiles/QuantumPrint.dir/QuantumPrint_autogen/EWIEGA46WW/qrc_resources.cpp.obj	e5f23a76dfb3d68
+1722	7477	7817514641520418	CMakeFiles/QuantumPrint.dir/PdfPrinter.cpp.obj	88b390cccf36fcc5
+1688	7955	7817514641244123	CMakeFiles/QuantumPrint.dir/main.cpp.obj	2c53299e361766e5
+1698	8374	7817514641364155	CMakeFiles/QuantumPrint.dir/mainwindow.cpp.obj	2a37c3cd7fb09343
+1679	8713	7817514641173030	CMakeFiles/QuantumPrint.dir/QuantumPrint_autogen/mocs_compilation.cpp.obj	ee53ee052a964ad2
+1711	8852	7817514641364155	CMakeFiles/QuantumPrint.dir/FileWatcher.cpp.obj	804b96e325fa50f7
+8853	9212	7817514712907829	QuantumPrint.exe	8b96a11fb340ffa2
+28	334	7817812697724389	QuantumPrint_autogen/timestamp	204203d8595659a2
+28	334	7817812697724389	QuantumPrint_autogen/mocs_compilation.cpp	204203d8595659a2
+28	334	7817812697724389	D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/QuantumPrint_autogen/timestamp	204203d8595659a2
+28	334	7817812697724389	D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/QuantumPrint_autogen/mocs_compilation.cpp	204203d8595659a2
+335	4561	7817812700803211	CMakeFiles/QuantumPrint.dir/mainwindow.cpp.obj	2a37c3cd7fb09343
+337	4808	7817812700834457	CMakeFiles/QuantumPrint.dir/FileWatcher.cpp.obj	804b96e325fa50f7
+4808	5227	7817812745513191	QuantumPrint.exe	8b96a11fb340ffa2
