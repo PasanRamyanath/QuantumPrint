@@ -15,11 +15,12 @@ A lightweight Windows tray application that watches a folder for PDF files and s
 
 ### Screenshots
 
+|  |  |  |
 |---|---|---|
 | ![](screenshots/1.PNG) | ![](screenshots/2.PNG) | ![](screenshots/3.PNG) |
 | ![](screenshots/4.PNG) | ![](screenshots/5.PNG) | |
 
-> Note: Images are taken from `screenshots/` folder (1.PNG..5.PNG). Update paths if you rename them.
+
 
 ## Features
 - Single-instance enforcement using shared memory guard.
