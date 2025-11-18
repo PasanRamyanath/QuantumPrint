@@ -15,7 +15,7 @@ A lightweight Windows tray application that watches a folder for PDF files and s
 
 ### Screenshots
 
-| 1 | 2 | 3 |
+|  |  |  |
 |---|---|---|
 | ![](screenshots/1.PNG) | ![](screenshots/2.PNG) | ![](screenshots/3.PNG) |
 | ![](screenshots/4.PNG) | ![](screenshots/5.PNG) | |
