@@ -92,7 +92,6 @@ The primary target is `QuantumPrint` (a GUI executable).
 - A valid license is required to use the application.
 - Open “License Information” or “Change License Key” from the tray menu to manage activation.
 - The activation dialog shows your Hardware ID and lets you paste a license key.
-- License key format (for reference): `IMPJR-XXXXXXXX-YYMMDD-XXXXXX` where the components encode prefix, hardware hash, expiration date, and checksum.
 - The Hardware ID derives from machine and network interface data. This is used locally for validation and not transmitted by the app.
 
 ## Packaging / Deployment
