@@ -1,0 +1,9 @@
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/QuantumPrint.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/edit_cache.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/rebuild_cache.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/list_install_components.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/install.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/install/local.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/install/strip.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/QuantumPrint_autogen_timestamp_deps.dir
+D:/QuantumPrint/QuantumPrint/QuantumPrint/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release-mode/CMakeFiles/QuantumPrint_autogen.dir

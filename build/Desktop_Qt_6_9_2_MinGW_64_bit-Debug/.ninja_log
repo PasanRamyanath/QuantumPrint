@@ -1,0 +1,21 @@
+# ninja log v6
+1391	1674	7815509116289582	CMakeFiles/IMPJR_Printer.dir/IMPJR_Printer_autogen/EWIEGA46WW/qrc_resources.cpp.obj	648952f8b19fc10
+21	1251	7815509113953771	IMPJR_Printer_autogen/timestamp	aa91145ca4216ccc
+1374	5401	7815509116122187	CMakeFiles/IMPJR_Printer.dir/mainwindow.cpp.obj	20f4742b7b8b0360
+21	1251	7815509113953771	D:/Duplexify/IMPJR_Printer/IMPJR_Printer/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/IMPJR_Printer_autogen/mocs_compilation.cpp	aa91145ca4216ccc
+21	1251	7815509113953771	IMPJR_Printer_autogen/mocs_compilation.cpp	aa91145ca4216ccc
+21	1251	7815509113953771	D:/Duplexify/IMPJR_Printer/IMPJR_Printer/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/IMPJR_Printer_autogen/timestamp	aa91145ca4216ccc
+1360	5973	7815509115956516	CMakeFiles/IMPJR_Printer.dir/IMPJR_Printer_autogen/mocs_compilation.cpp.obj	1c0507158280e799
+1363	5181	7815509116059648	CMakeFiles/IMPJR_Printer.dir/main.cpp.obj	20329d8032c101e6
+6665	7268	7815509169009637	IMPJR_Printer.exe	73f61cab4aec072d
+1377	6665	7815509116122187	CMakeFiles/IMPJR_Printer.dir/FileWatcher.cpp.obj	6f4ed606876eada7
+1380	5661	7815509116122187	CMakeFiles/IMPJR_Printer.dir/PdfPrinter.cpp.obj	bd5a94f899348d39
+1251	1360	7815509115950125	IMPJR_Printer_autogen/EWIEGA46WW/qrc_resources.cpp	5146b17165d146a7
+1251	1360	7815509115950125	D:/Duplexify/IMPJR_Printer/IMPJR_Printer/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/IMPJR_Printer_autogen/EWIEGA46WW/qrc_resources.cpp	5146b17165d146a7
+258	4357	7815344462474709	CMakeFiles/IMPJR_Printer.dir/PdfPrinter1.cpp.obj	304c785c6784bab5
+13	38	7817302658387899	CMakeFiles/clean.additional	9bf4c46894e2abbc
+38	49	7817302658705755	clean	3488f43e00a248a4
+16	998	7817365267476612	build.ninja	b152ca1bcd794a80
+14	1009	7817365267476612	build.ninja	b152ca1bcd794a80
+15	40	7817365268389124	CMakeFiles/clean.additional	9bf4c46894e2abbc
+40	51	7817365268530486	clean	3488f43e00a248a4
